@@ -87,7 +87,7 @@
             pour plus d’informations et pour un devis gratuit de nettoyage maison à Casablanca merci de nous contactez 7j/7.</p>
 
           <!-- Read more button -->
-          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="contactez-nous.php">contactez-nous</a>
+          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="devis.php">Demandez un devis</a>
 
         </div>
         <!-- Grid column -->

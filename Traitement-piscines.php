@@ -7,9 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="Société de nettoyage à Casablanca, société de nettoyage Casablanca, société nettoyage Casablanca, nettoyage à Casablanca, nettoyage Casablanca, service de nettoyage Casablanca, services de ménage à Casablanca, travaux de nettoyage Casablanca, entreprise de nettoyage Casablanca, femme de ménage Casablanca, nettoyage maison Casablanca, nettoyage appartement Casablanca, nettoyage bureau Casablanca, nettoyage villa Casablanca, nettoyage industriel Casablanca, nettoyage fin de chantier à Casablanca, nettoyage après travaux, travaux multiservices à Casablanca, services facilités Casablanca, travaux divers Casablanca, installation caméra surveillance à Casablanca, femmes de ménage à Casablanca, traitement des piscines à Casablanca, Casablanca Maroc, Nettoyage professionnel, Prestations de nettoyage, Remise en état, Lavage, Propreté, Sols, Désinfection, Locaux professionnels, Vitrerie, Nettoyage des sols, Lavage de vitres, Travaux de nettoyage, Décapage, service de nettoyage, Nettoyages. Société de nettoyage à Casablanca Maroc, société de nettoyage Casablanca Maroc, société nettoyage Casablanca Maroc, nettoyage à Casablanca Maroc, nettoyage Casablanca Maroc, service de nettoyage Casablanca Maroc, services de ménage à Casablanca Maroc, travaux de nettoyage Casablanca Maroc, entreprise de nettoyage Casablanca Maroc, femme de ménage Casablanca Maroc, nettoyage maison Casablanca Maroc, nettoyage appartement Casablanca Maroc, nettoyage bureau Casablanca Maroc, nettoyage villa Casablanca Maroc, nettoyage industriel Casablanca Maroc, nettoyage fin de chantier à Casablanca Maroc, nettoyage après travaux Maroc, travaux multiservices à Casablanca Maroc, services facilités Casablanca Maroc, travaux divers Casablanca Maroc, installation caméra surveillance à Casablanca Maroc, femmes de ménage à Casablanca Maroc, traitement des piscines à Casablanca Maroc, Casablanca Maroc, Nettoyage professionnel Maroc, Prestations de nettoyage Maroc, Remise en état Maroc, Lavage Maroc, Propreté Maroc, Sols, Désinfection Maroc, Locaux professionnels, Vitrerie, Nettoyage des sols Maroc, Lavage de vitres Maroc, Travaux de nettoyage, Décapage, service de nettoyage Maroc, Nettoyages Maroc.">
   <meta name="description" content="Société de nettoyage à Casablanca Maroc: entreprise de nettoyage et de ménage, nettoyage industriel, nettoyage fin de chantier, marbre, crristallisation et ponçage des sols, produit de nettoyage à Casablanca Maroc.">
-  <title>Femme de ménage - NSS Nettoyage Casablanca Maroc</title>
+  <title>Société de Traitement des piscines Casablanca - NSS NETTOYAGE</title>
   <link rel="icon" type="image/x-icon" href="img/NSS-NETTOYAGE-LOGO.png">
-
   <!-- Font Awesome -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" />
 
@@ -66,11 +65,10 @@
       <div class="row align-items-center">
         <!-- Grid column -->
         <div class="col-lg-6">
-          <h2 class="text-lg-left font-weight-bold mb-4 pb-2">
-            Femme de ménage Casablanca</h2>
+
           <!-- Featured image -->
           <div class="view overlay rounded z-depth-2 mb-lg-0 mb-4">
-            <img class="img-fluid" src="img/img_activites/femme-de-menage.jpg" alt="Sample image">
+            <img class="img-fluid" src="img/img_activites/Traitement des piscines.jpg" alt="Sample image">
             <a>
               <div class="mask rgba-white-slight"></div>
             </a>
@@ -81,17 +79,16 @@
         <div class="col-lg-6">
           <!-- Post title -->
           <h2 class="font-weight-bold mb-3" style=" text-align: left;"><strong>
-              Femme de ménage Casablanca</strong></h2>
+              Traitement des piscines à Casablanca</strong></h2>
           <!-- Excerpt -->
-          <p>Nos femmes ménage à Casablanca prennent en charge aussi bien le ménage du domicile que le repassage du linge. <br>
-            Spécialisés dans le ménage et le repassage à Casablanca et partout au Maroc, nous proposons différentes formules et femmes de ménage adaptées à tous les besoins, qu’ils soient ponctuels ou réguliers. <br>
-            Notre société de nettoyage à Casablanca vous laisse évaluer le nombre d’heures dont vous avez besoin. Nous nous engageons à réaliser un maximum de tâches en un minimum de temps.<br>
-            Nous définissons ensemble un créneau horaire et Nous nous engageons à respecter ce créneau et à vous avertir en cas de modification. <br>
-            Une chose à savoir : nos femmes de ménage à Casablanca font souvent plus que moins !
+          <p>On vous propose un traitement efficace pour traiter l’eau de votre piscine à Casablanca et partout à Maroc, c’est s’offrir une solution de désinfection efficace. <br>
+            L’adaptabilité des appareils sur les équipements déjà installés et l’entretien facile permettent de réaliser des économies d’eau sans diminuer le confort de baignade. <br>
+            Afin de vous aider dans vos démarches, Notre société de traitement de piscines à Casablanca fait le point sur les règles de base d’un entretien de l’eau efficace et vous informe sur les principaux éléments présents dans l’eau.<br>
+
           </p>
 
           <!-- Read more button -->
-          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="contactez-nous.php">contactez-nous</a>
+          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="devis.php">Demandez un devis</a>
 
         </div>
         <!-- Grid column -->
@@ -121,7 +118,7 @@
         <div class="col-md-7 mb-4">
           <!--Section: Content-->
           <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
-            <h4 class="font-weight-bold mb-3" style=" text-align: left;">Femme ménage Casablanca</h4>
+            <h4 class="font-weight-bold mb-3" style=" text-align: left;">Entretien des piscines Casablanca</h4>
             <!--Grid row-->
             <div class="row">
 
@@ -130,7 +127,7 @@
 
                 <!--Image-->
                 <div class="view overlay ">
-                  <img src="img/header-bureau-nettoyage.jpg" class="img-fluid" alt="">
+                  <img src="img/img_activites/Traitement des piscines 2.jpg" class="img-fluid" alt="">
                   <a href="#">
                     <div class="mask rgba-white-light"></div>
                   </a>
@@ -152,22 +149,18 @@
 
 
           <div class="px-3 pt-3 mx-1 mt-1 pb-0">
+            <p style=" text-align: left;">Pour maintenir l’eau de votre piscine à Casablanca saine et transparente, le bassin comme les équipements doivent être régulièrement entretenus.</p>
 
-            <p style=" text-align: left;">Afin de vérifier la bonne réalisation des heures convenues, nous appelons (avec votre permission) nos intervenantes à votre domicile ou à votre local professionnel afin de vérifier leur présence. Vous souhaitez que votre ménage et votre repassage à soit fait chaque semaine, que les salles de bain (baignoires, douches, lavabos et sols) soient nettoyés, la cuisine également, que la poussière soit faite et les sols soient aspirés et lavés ? Vous souhaitez que votre linge courant soit repassé ? Contactez-nous et nous vous envoyons une professionnelle du ménage et repassage à qui confier vos besoins. Cette intervenante, régulièrement formée, suivie et encadrée saura répondre à votre besoin (femme de ménage).</p>
+            <p style=" text-align: left;">Nos plages horaires souples et adaptées à vos besoins, vous offrent un entretien efficace, sans perturbation de votre quotidien.</p>
 
-            <p style=" text-align: left;">– Dès la première intervention, nous prenons contact avec vous pour connaître vos observations sur la qualité du travail réalisé (évaluation de la ponctualité, rapidité, efficacité, cordialité, etc.). Notre référent qualité est ensuite en constante relation avec vous.</p>
+            <p style=" text-align: left;">Nous intervenons également pour des prestations ponctuelles saisonnières selon l’occupation de votre bien.</p>
 
-            <p style=" text-align: left;">– Vous êtes suivi par un chargé de clientèle qui sera à l’écoute de vos demandes.</p>
+            <p style=" text-align: left;">Notre offre s’adresse aux propriétaires mais également les Professionnels.</p>
 
-            <p style=" text-align: left;">– Nous réalisons des enquêtes trimestrielles ainsi qu’une grande enquête annuelle nous permettant d’apprécier le degré de satisfaction de nos clients. Voir les résultats de notre dernière enquête de satisfaction.</p>
+            <p style=" text-align: left;">Notre large gamme de produits, matériels et machines de traitement de piscines à Casablanca permet une multitude de combinaisons. Pour vous aider à trouver celle qui correspond le mieux à vos besoins, toute l’équipe d’entretien des piscines à Casablanca vous conseille et vous aiguille en tenant compte de vos idées.</p>
 
-            <p style=" text-align: left;">– Notre référent qualité réalise des visites de contrôle inopinées aux domiciles de nos clients tout au long de l’année.</p>
+            <p style=" text-align: left;">A ce jour, plus de 50 000 bassins privés (piscine & spa) sont équipés à travers le monde pour le plus grand bonheur des utilisateurs ! Les propriétaires d’un système de traitement de l’eau. de piscine ou de spa bénéficient d’une qualité d’eau incomparable.</p>
 
-            <p style=" text-align: left;">– Nous mettons à votre disposition un livret d’accueil sur lequel vous pouvez échanger et avoir l’historique complet de nos relations.</p>
-
-            <p style=" text-align: left;">– Vous souhaitez cesser de faire appel à nos services ? Nous vous appelons pour vérifier que cette interruption ne soit pas liée à la qualité de nos services.</p>
-
-            <p style=" text-align: left;">A ce jour, plus de 50 000 bassins privés (piscine & spa) sont équipés à travers le monde pour le plus grand bonheur des utilisateurs ! Les propriétaires d’un système de traitement de l’eau de piscine ou de spa bénéficient d’une qualité d’eau incomparable.</p>
           </div>
 
         </div>

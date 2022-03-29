@@ -1,10 +1,9 @@
 <style>
     #hover_color {
         height: 50px;
-
         background: lightseagreen;
-        margin: 20px;
-        float: left;
+        margin: 8px;
+        float: none;
         border: 0px;
         color: #fff;
         box-shadow: 0 0 1px #ccc;
@@ -124,17 +123,16 @@
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
                     <p>
-                        <i class="fas fa-map-marker me-3"></i> ETG 5 N°10، 99 Rue Pierre
-                        Parent, Casablanca 20110, Maroc
+                        <i class="fas fa-map-marker me-3"></i> 27 Rue Tahar Sebti, Casablanca 20000
                     </p>
 
                     <p>
                         <i class="fas fa-envelope me-3"></i>
                         nss.nettoyage.maroc@gmail.com
                     </p>
-                    <p><i class="fas fa-phone me-3"></i> +212 772 393 364</p>
+                    <p><i class="fas fa-phone me-3"></i> 0666560650</p>
                     <!-- Submit button -->
-                    <a href="Comment nettoyer un four.php">
+                    <a href="contactez-nous.php">
                         <button type="submit" id="hover_color" class="btn mb-4 text-white" style="background-color: #0B0146; height: 60px;">
                             <b class="hover-text"> contactez-nous </b>
                         </button>

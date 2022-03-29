@@ -69,7 +69,7 @@
             Société Nettoyage fin de chantiers Casablanca</h2>
           <!-- Featured image -->
           <div class="view overlay rounded z-depth-2 mb-lg-0 mb-4">
-            <img class="img-fluid" src="img/img_service/Nettoyage fin chantier.jpg" alt="Sample image">
+            <img class="img-fluid" src="img/img_service/Nettoyage fin chantier.jpg" alt="Sample image" style="width: 100%;">
             <a>
               <div class="mask rgba-white-slight"></div>
             </a>
@@ -87,7 +87,7 @@
 
 
             <!-- Read more button -->
-            <a class="btn btn-primary btn-md btn-rounded mx-0 " href="contactez-nous.php">contactez-nous</a>
+            <a class="btn btn-primary btn-md btn-rounded mx-0 " href="devis.php">Demandez un devis</a>
 
         </div>
         <!-- Grid column -->

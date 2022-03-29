@@ -15,12 +15,16 @@
 
   <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.20.0/css/mdb.lite.min.css" rel="stylesheet" />
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+
+
   <!-- MDB -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.css" rel="stylesheet" />
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <style>
@@ -29,6 +33,11 @@
   .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0;
+  }
+
+  .btn.btn-sm {
+    padding: 0.5rem 1.6rem;
+    font-size: 1.64rem;
   }
 </style>
 
@@ -139,7 +148,7 @@
 
             </div>
 
-            <button type="submit" class="btn btn-info btn-sm ml-0">Evoyer<i class="far fa-paper-plane ml-2"></i></button>
+            <button type="submit" class="btn btn-info btn-sm ml-0" style="">Evoyer<i class="far fa-paper-plane ml-2"></i></button>
           </form>
         </div>
         <!--Grid column-->

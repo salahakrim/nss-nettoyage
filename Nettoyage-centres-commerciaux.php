@@ -86,7 +86,7 @@
           </p>
 
           <!-- Read more button -->
-          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="contactez-nous.php">contactez-nous</a>
+          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="devis.php">Demandez un devis</a>
 
         </div>
         <!-- Grid column -->

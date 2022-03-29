@@ -88,7 +88,7 @@
             Douée d’une équipe compétente et professionnelle, notre entreprise vous accorde une palette de techniques de nettoyage et d’entretien conformes aux lois et réglementations.</p>
 
           <!-- Read more button -->
-          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="contactez-nous.php">contactez-nous</a>
+          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="devis.php">Demandez un devis</a>
 
         </div>
         <!-- Grid column -->

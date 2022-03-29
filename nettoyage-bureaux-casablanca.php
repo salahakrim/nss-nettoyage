@@ -83,10 +83,10 @@
           <p>On est des spécialistes de nettoyage bureaux à Casablanca notre intervention recouvre toutes les opérations de ménage ou de nettoyage bureaux et d’hygiène du bureau sur Casablanca et partout au Maroc, quelle que soit la taille de votre entreprise. <br>
             Nous confier la propreté de votre bureau est une garantie d’homogénéité et de constance pour l’accueil des clients dans votre entreprise. Faire appel à une entreprise spécialisée pour l’hygiène de votre société est un investissement qui présente des avantages commerciaux pour votre entreprise. <br>
             Notre engagement à utiliser des produits efficaces et respectueux de votre santé dans les opérations d’hygiène et de ménage au sein de votre entreprise. <br>
-            Pour un nettoyage de vos bureaux à Casablanca <a href="contactez-nous.php"> contactez-nous</a></p>
+            Pour un nettoyage de vos bureaux à Casablanca <a href="devis.php"> contactez-nous</a></p>
 
           <!-- Read more button -->
-          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="contactez-nous.php">contactez-nous</a>
+          <a class="btn btn-primary btn-md btn-rounded mx-0 " href="devis.php">Demandez un devis</a>
 
         </div>
         <!-- Grid column -->
