@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Contactez-Nous - NSS NETTOYAGE Casablanca Maroc</title>
+  <link rel="icon" type="image/x-icon" href="img/NSS-NETTOYAGE-LOGO.png">
   <meta name="keywords" content="Société de nettoyage à Casablanca, société de nettoyage Casablanca, société nettoyage Casablanca, nettoyage à Casablanca, nettoyage Casablanca, service de nettoyage Casablanca, services de ménage à Casablanca, travaux de nettoyage casablanca, entreprise de nettoyage Casablanca, femme de ménage Casablanca, nettoyage maison Casablanca, nettoyage appartement Casablanca, nettoyage bureau Casablanca, nettoyage villa Casablanca, nettoyage industriel Casablanca, nettoyage fin de chantier à Casablanca, nettoyage après travaux, Société de nettoyage et Cristallisation marbre à Casablanca Maroc, Société de nettoyage de la ventilation mécanique contrôlée (VMC) à Casablanca Maroc, Société de nettoyage et ponçage du parquet à Casablanca Maroc, Société de nettoyage et dégraissage des hottes à Casablanca Maroc, Société de nettoyage et l'entretien des sols à Casablanca Maroc, 
  travaux multiservices à Casablanca, services facilités Casablanca, travaux divers Casablanca, traitement des piscines à Casablanca, Casablanca Maroc.">
   <!-- Font Awesome -->

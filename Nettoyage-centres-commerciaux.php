@@ -7,7 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="Société de nettoyage à Casablanca, société de nettoyage Casablanca, société nettoyage Casablanca, nettoyage à Casablanca, nettoyage Casablanca, service de nettoyage Casablanca, services de ménage à Casablanca, travaux de nettoyage Casablanca, entreprise de nettoyage Casablanca, femme de ménage Casablanca, nettoyage maison Casablanca, nettoyage appartement Casablanca, nettoyage bureau Casablanca, nettoyage villa Casablanca, nettoyage industriel Casablanca, nettoyage fin de chantier à Casablanca, nettoyage après travaux, travaux multiservices à Casablanca, services facilités Casablanca, travaux divers Casablanca, installation caméra surveillance à Casablanca, femmes de ménage à Casablanca, traitement des piscines à Casablanca, Casablanca Maroc, Nettoyage professionnel, Prestations de nettoyage, Remise en état, Lavage, Propreté, Sols, Désinfection, Locaux professionnels, Vitrerie, Nettoyage des sols, Lavage de vitres, Travaux de nettoyage, Décapage, service de nettoyage, Nettoyages. Société de nettoyage à Casablanca Maroc, société de nettoyage Casablanca Maroc, société nettoyage Casablanca Maroc, nettoyage à Casablanca Maroc, nettoyage Casablanca Maroc, service de nettoyage Casablanca Maroc, services de ménage à Casablanca Maroc, travaux de nettoyage Casablanca Maroc, entreprise de nettoyage Casablanca Maroc, femme de ménage Casablanca Maroc, nettoyage maison Casablanca Maroc, nettoyage appartement Casablanca Maroc, nettoyage bureau Casablanca Maroc, nettoyage villa Casablanca Maroc, nettoyage industriel Casablanca Maroc, nettoyage fin de chantier à Casablanca Maroc, nettoyage après travaux Maroc, travaux multiservices à Casablanca Maroc, services facilités Casablanca Maroc, travaux divers Casablanca Maroc, installation caméra surveillance à Casablanca Maroc, femmes de ménage à Casablanca Maroc, traitement des piscines à Casablanca Maroc, Casablanca Maroc, Nettoyage professionnel Maroc, Prestations de nettoyage Maroc, Remise en état Maroc, Lavage Maroc, Propreté Maroc, Sols, Désinfection Maroc, Locaux professionnels, Vitrerie, Nettoyage des sols Maroc, Lavage de vitres Maroc, Travaux de nettoyage, Décapage, service de nettoyage Maroc, Nettoyages Maroc.">
   <meta name="description" content="Société de nettoyage à Casablanca Maroc: entreprise de nettoyage et de ménage, nettoyage industriel, nettoyage fin de chantier, marbre, crristallisation et ponçage des sols, produit de nettoyage à Casablanca Maroc.">
-  <title>Société Nettoyage parquets Casablanca : NSS Nettoyage Casablanca</title>
+  <title>Nettoyage centres commerciaux à Casablanca - NSS Nettoyage</title>
+  <link rel="icon" type="image/x-icon" href="img/NSS-NETTOYAGE-LOGO.png">
   <!-- Font Awesome -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" />
 
@@ -54,7 +55,6 @@
     <!-- Navbar -->
 
   </header>
-
   <div class="container mt-5">
     <!--Section: Content-->
     <section class="dark-grey-text">
@@ -67,7 +67,7 @@
 
           <!-- Featured image -->
           <div class="view overlay rounded z-depth-2 mb-lg-0 mb-4">
-            <img class="img-fluid" src="img/img_activites/Nettoyage parquet.jpg" alt="Sample image">
+            <img class="img-fluid" src="img/img_activites/Nettoyage centres commerciaux.jpg" alt="Sample image">
             <a>
               <div class="mask rgba-white-slight"></div>
             </a>
@@ -78,13 +78,11 @@
         <div class="col-lg-6">
           <!-- Post title -->
           <h2 class="font-weight-bold mb-3" style=" text-align: left;"><strong>
-              Nettoyage de parquets Casablanca</strong></h2>
+              Nettoyage centres commerciaux à Casablanca</strong></h2>
           <!-- Excerpt -->
-          <p>La Société NSS de Nettoyage Parquet, située à Casablanca est spécialisée dans le traitement des sols, réparation, pose et ponçage de parquets. <br>
-            Depuis sa création, son équipe est au service des professionnels et des particuliers. Nous intervenons dans Casablanca et partout au Maroc. Nous savons satisfaire vos besoins et vous donner des conseils personnalisés. <br>
-            Nous proposons la rénovation de parquets (flottants, traditionnels,…).<br>
-            Vous pourrez compter sur la qualité de notre travail et notre sérieux. <br>
-            Pour tous renseignements, l’entreprise Nettoyage Parquet à Casablanca reste à votre disposition pour toutes demandes d’informations complémentaires.
+          <p>Le nettoyage centres commerciaux à Casablanca est le premier pôle d’activité de notre entreprise. Nous avons développé pour nos clients une véritable expertise dans les domaines de la propreté des lieux de travail. Nous vous garantissons une prestation discrète et efficace et un résultat à la hauteur de vos attentes, sur Casablanca et partout au Maroc.
+
+
           </p>
 
           <!-- Read more button -->
@@ -118,7 +116,7 @@
         <div class="col-md-7 mb-4">
           <!--Section: Content-->
           <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
-            <h4 class="font-weight-bold mb-3" style=" text-align: left;">Nettoyage parquets Casablanca</h4>
+            <h4 class="font-weight-bold mb-3" style=" text-align: left;">Nettoyage centres commerciaux à Casablanca</h4>
             <!--Grid row-->
             <div class="row">
 
@@ -127,7 +125,7 @@
 
                 <!--Image-->
                 <div class="view overlay ">
-                  <img src="img/img_activites/Nettoyage parquet 2.webp" class="img-fluid" alt="">
+                  <img src="img/img_activites/Nettoyage centres commerciaux 2.jpg" class="img-fluid" alt="">
                   <a href="#">
                     <div class="mask rgba-white-light"></div>
                   </a>
@@ -149,11 +147,29 @@
 
 
           <div class="px-3 pt-3 mx-1 mt-1 pb-0">
-            <p style=" text-align: left;">Un seul interlocuteur pour une prise en charge globale de vos travaux de nettoyage et d’entretien de votre parquet à Casablanca et partout au Maroc, quotidiens ou périodiques.</p>
-            <p style=" text-align: left;">Que vous soyez une entreprise, une collectivité ou un privé, nous vous garantissons un service intégral, efficace et impeccable.</p>
-            <p style=" text-align: left;">Pour préserver la beauté d’origine d’un parquet, notre société de nettoyage de Parquet met en œuvre son savoir-faire de professionnel au service des particuliers et des entreprises pour l’entretien et le nettoyage des parquets(ponçage, vitrification, rénovation, huilage et mise en cire)</p>
-            <p style=" text-align: left;">Grâce à la grande variété de chantiers sur lesquels intervient notre société (habitations, bureaux, immeubles, magasins, salles de sport, restaurant, salles polyvalentes, etc.), l’entreprise saura s’adapter à vos spécificités quelle qu’en soit la surface, de la plus petite à la plus grande. .</p>
-            <p style=" text-align: left;">Profitez de parquets sans aucune trace avec notre service de lavage de parquets!</p>
+            <p style=" text-align: left;">Pour un centre commercial, nous proposons tous ces services :</p>
+            <li style=" text-align: left;"> Nettoyage des parties communes</li>
+            <li style=" text-align: left;"> Nettoyage de vitrine et baies vitrées</li>
+            <li style=" text-align: left;">Nettoyage des sanitaires</li>
+            <li style=" text-align: left;"> Nettoyage de cafétéria, salle de cinéma, bowling, restaurant</li>
+            <li style=" text-align: left;"> Nettoyage de sol</li>
+            <li style=" text-align: left;">Nettoyage de rambarde, de garde corps, de balustrade</li>
+            <li style=" text-align: left;"> Nettoyage de galerie marchande</li>
+            <li style=" text-align: left;"> Nettoyage de coursive</li>
+            <li style=" text-align: left;">Nettoyage des luminaires</li>
+            <li style=" text-align: left;"> Nettoyage d’atrium</li>
+            <li style=" text-align: left;"> Nettoyage de supermarché, hypermarché</li>
+            <li style=" text-align: left;">Nettoyage d’ascenseur, d’escalator, de tapis roulant</li>
+            <li style=" text-align: left;"> Nettoyage de parking</li>
+            <li style=" text-align: left;"> Ect…</li>
+
+            <p style=" text-align: left;">L’image des locaux de votre société est un ressenti puissant et l’un des principaux vecteur d’achat. Un centre commercial propre attire, retient et fait revenir les clients, pour parfaire cette impression et augmenter les temps de présence de votre clientèle vous devez avoir un prestataire sensible et respectueux de vos attentes.</p>
+
+            <p style=" text-align: left;">Au quotidien nos équipes connaissent vos impératifs et mettent en valeur l’offre de votre centre commercial, vous pouvez compter sur notre savoir-faire pour organiser et mettre en place les méthodes et procédés adaptés pour que votre satisfaction soit toujours totale. Notre priorité : que le nettoyage soit à votre image.</p>
+
+            <p style=" text-align: left;">La propreté est importante pour vos collaborateurs et vos clients. Nos équipes Pour le nettoyage de votre ou vos centres commerciaux sur Casablanca et partout au Maroc, nous mettons à votre disposition nos équipes, aux horaires et à la fréquence qui vous conviendront. Nous effectuons le nettoyage des sols, des vitrines, et des bureaux et prendrons en compte vos besoins spécifiques sur demande, avec des tarifs spécialement étudiés pour votre commerce.</p>
+
+            <p style=" text-align: left;">Nos devis sont gratuits, et nos tarifs compétitifs. Alors n’hésitez plus, demandez le devis nettoyage de votre centre commercial !</p>
 
           </div>
 

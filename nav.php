@@ -1,4 +1,4 @@
-<footer class="text-center text-lg-start text-muted" style="background-color: rgba(3, 5, 63, 0.844)">
+<footer class="text-center text-lg-start text-white" style="background-color: #0072bd">
     <!-- Section: Social media -->
     <section class="d-flex justify-content-center justify-content-lg-between p-2 border-bottom">
         <!-- Left -->
@@ -30,7 +30,7 @@
 </footer>
 <!-- Section: Social media -->
 <!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white">
+<nav class="navbar navbar-expand-lg navbar-light bg-white" style="font-weight: 700;">
     <a href="index.php">
         <img src="img/NSS-NETTOYAGE-LOGO.png" alt="Logo" height="60px" /></a>
     <div class="container-fluid">
@@ -114,22 +114,22 @@
                     <!-- Dropdown menu -->
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #4e9eff;">
                         <li>
-                            <a class="dropdown-item" href="Nettoyage Industriel.php">Nettoyage Industriel</a>
+                            <a class="dropdown-item" href="Nettoyage-Industriel.php">Nettoyage Industriel</a>
                         </li>
                         <li>
-                            <a class="dropdown-item" href="Nettoyage copropriété.php">Nettoyage copropriété</a>
+                            <a class="dropdown-item" href="Nettoyage-copropriete.php">Nettoyage copropriété</a>
                         </li>
                         <li>
-                            <a class="dropdown-item" href="Nettoyage centres commerciaux.php">Nettoyage centres commerciaux</a>
+                            <a class="dropdown-item" href="Nettoyage-centres-commerciaux.php">Nettoyage centres commerciaux</a>
                         </li>
                         <li>
-                            <a class="dropdown-item" href="Nettoyage parquets.php">Nettoyage parquets</a>
+                            <a class="dropdown-item" href="Nettoyage-parquets.php">Nettoyage parquets</a>
                         </li>
                         <li>
-                            <a class="dropdown-item" href="Nettoyage moquette.php">Nettoyage moquette</a>
+                            <a class="dropdown-item" href="Nettoyage-moquette.php">Nettoyage moquette</a>
                         </li>
                         <li>
-                            <a class="dropdown-item" href="Femme de ménage.php">Femme de ménage</a>
+                            <a class="dropdown-item" href="Femme-menage.php">Femme de ménage</a>
                         </li>
                         <li>
                             <a class="dropdown-item" href="Services facilités.php">Services facilités</a>

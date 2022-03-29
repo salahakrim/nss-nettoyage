@@ -1,4 +1,31 @@
-<footer class="text-center text-lg-start text-muted" style="background-color: rgba(3, 5, 63, 0.844)">
+<style>
+    #hover_color {
+        height: 50px;
+
+        background: lightseagreen;
+        margin: 20px;
+        float: left;
+        border: 0px;
+        color: #fff;
+        box-shadow: 0 0 1px #ccc;
+        -webkit-transition-duration: 0.5s;
+        -webkit-transition-timing-function: linear;
+        box-shadow: 0px 0 0 #31708f inset;
+    }
+
+    #hover_color:hover {
+        -webkit-box-shadow: -200px 0 0 #000000 inset;
+
+
+    }
+
+    b.hover-text:hover {
+        color: #0072bd;
+    }
+</style>
+
+
+<footer class="text-center text-lg-start text-white" style="background-color: #0072bd; ">
     <!-- Section: Social media -->
     <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
         <!-- Left -->
@@ -38,7 +65,7 @@
                 <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                     <!-- Content -->
                     <h6 class="text-uppercase fw-bold mb-4">
-                        <img src="img/NSS-NETTOYAGE-LOGO.png" alt="" height="60px">
+                        <img src="img/NSS-NETTOYAGE-LOGO.png" alt="" height="60px" style="background-color: aliceblue;">
                     </h6>
                     <p>
                         NSS NETTOYAGE, est une entreprise de nettoyage professionnel et
@@ -85,8 +112,8 @@
                         <a href="pourquoi-nous-choisir.php" class="text-reset">pourquoi nos choisir</a>
                     </p>
                     <a href="devis.php">
-                        <button type="submit" class="btn mb-4" style="background-color: #afa9bb; height: 60px;">
-                            demandez un devis
+                        <button type="submit" id="hover_color" class="btn mb-4 text-white" style="background-color: #0B0146; height: 60px;">
+                            <b class="hover-text">demandez un devis</b>
                         </button>
                     </a>
                 </div>
@@ -108,7 +135,9 @@
                     <p><i class="fas fa-phone me-3"></i> +212 772 393 364</p>
                     <!-- Submit button -->
                     <a href="Comment nettoyer un four.php">
-                        <button type="submit" class="btn mb-4" style="background-color: #afa9bb; height: 60px;">contactez-nous</button>
+                        <button type="submit" id="hover_color" class="btn mb-4 text-white" style="background-color: #0B0146; height: 60px;">
+                            <b class="hover-text"> contactez-nous </b>
+                        </button>
                     </a>
                 </div>
                 <!-- Grid column -->

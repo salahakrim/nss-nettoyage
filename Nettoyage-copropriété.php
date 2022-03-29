@@ -7,7 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="Société de nettoyage à Casablanca, société de nettoyage Casablanca, société nettoyage Casablanca, nettoyage à Casablanca, nettoyage Casablanca, service de nettoyage Casablanca, services de ménage à Casablanca, travaux de nettoyage Casablanca, entreprise de nettoyage Casablanca, femme de ménage Casablanca, nettoyage maison Casablanca, nettoyage appartement Casablanca, nettoyage bureau Casablanca, nettoyage villa Casablanca, nettoyage industriel Casablanca, nettoyage fin de chantier à Casablanca, nettoyage après travaux, travaux multiservices à Casablanca, services facilités Casablanca, travaux divers Casablanca, installation caméra surveillance à Casablanca, femmes de ménage à Casablanca, traitement des piscines à Casablanca, Casablanca Maroc, Nettoyage professionnel, Prestations de nettoyage, Remise en état, Lavage, Propreté, Sols, Désinfection, Locaux professionnels, Vitrerie, Nettoyage des sols, Lavage de vitres, Travaux de nettoyage, Décapage, service de nettoyage, Nettoyages. Société de nettoyage à Casablanca Maroc, société de nettoyage Casablanca Maroc, société nettoyage Casablanca Maroc, nettoyage à Casablanca Maroc, nettoyage Casablanca Maroc, service de nettoyage Casablanca Maroc, services de ménage à Casablanca Maroc, travaux de nettoyage Casablanca Maroc, entreprise de nettoyage Casablanca Maroc, femme de ménage Casablanca Maroc, nettoyage maison Casablanca Maroc, nettoyage appartement Casablanca Maroc, nettoyage bureau Casablanca Maroc, nettoyage villa Casablanca Maroc, nettoyage industriel Casablanca Maroc, nettoyage fin de chantier à Casablanca Maroc, nettoyage après travaux Maroc, travaux multiservices à Casablanca Maroc, services facilités Casablanca Maroc, travaux divers Casablanca Maroc, installation caméra surveillance à Casablanca Maroc, femmes de ménage à Casablanca Maroc, traitement des piscines à Casablanca Maroc, Casablanca Maroc, Nettoyage professionnel Maroc, Prestations de nettoyage Maroc, Remise en état Maroc, Lavage Maroc, Propreté Maroc, Sols, Désinfection Maroc, Locaux professionnels, Vitrerie, Nettoyage des sols Maroc, Lavage de vitres Maroc, Travaux de nettoyage, Décapage, service de nettoyage Maroc, Nettoyages Maroc.">
   <meta name="description" content="Société de nettoyage à Casablanca Maroc: entreprise de nettoyage et de ménage, nettoyage industriel, nettoyage fin de chantier, marbre, crristallisation et ponçage des sols, produit de nettoyage à Casablanca Maroc.">
-  <title>Nettoyage Industriel - NSS Nettoyage Casablanca Maroc</title>
+  <title>Nettoyage copropriété Casablanca - NSS Nettoyage</title>
+  <link rel="icon" type="image/x-icon" href="img/NSS-NETTOYAGE-LOGO.png">
   <!-- Font Awesome -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" />
 
@@ -54,7 +55,6 @@
     <!-- Navbar -->
 
   </header>
-
   <div class="container mt-5">
     <!--Section: Content-->
     <section class="dark-grey-text">
@@ -66,7 +66,7 @@
         <div class="col-lg-6">
           <!-- Featured image -->
           <div class="view overlay rounded z-depth-2 mb-lg-0 mb-4">
-            <img class="img-fluid" src="img/img_activites/Nettoyage Industriel.webp" alt="Sample image" width="100%">
+            <img class="img-fluid" src="img/img_activites/Nettoyage copropriété.jpg" alt="Sample image">
             <a>
               <div class="mask rgba-white-slight"></div>
             </a>
@@ -77,14 +77,11 @@
         <div class="col-lg-6">
           <!-- Post title -->
           <h2 class="font-weight-bold mb-3" style=" text-align: left;"><strong>
-              Nettoyage industriel Casablanca</strong></h2>
+              Société de nettoyage copropriété</strong></h2>
           <!-- Excerpt -->
-          <p>Notre expertise en nettoyage industriels à Casablanca pour maintenir la qualité et la continuité de votre processus<br>
-            Maintenir votre environnement de production dans des conditions optimales d’hygiène et de propreté contribue à optimiser votre production et à garantir la qualité de vos produits. <br>
-            NSS NETTOYAGE vous aide à trouver des solutions innovantes de nettoyage industriel à Casablanca et partout au Maroc. <br>
-            Nous partageons vos objectifs : <br>
-            • rationaliser les coûts en limitant les retouches, <br>
-            • contribuer à l’efficacité globale du dispositif de production, le tout dans une logique zéro défaut.
+          <p>Parce que le nettoyage de l’immeuble peut être une corvée pour les habitants ou les locataires et peut être la source des problèmes et conflits entre les propriétaires et le syndic. Alors, faire appel à une entreprise de nettoyage peut être la meilleure solution pour ôter toute source de conflit.<br>
+            La société NSS Nettoyage met à votre service tout son savoir-faire et son expérience pour vous apporter les meilleures solutions (ponctuelles ou contractuelles) adaptées à vos besoins pour le nettoyage des parties communes. <br>
+            Vous souhaitez des surfaces propres comme neuves? Vous attachez énormément d’importance à la propreté de vos immeubles? N’hésitez plus et appelez-nous!
           </p>
 
           <!-- Read more button -->
@@ -118,7 +115,7 @@
         <div class="col-md-7 mb-4">
           <!--Section: Content-->
           <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
-            <h4 class="font-weight-bold mb-3" style=" text-align: left;">Nettoyage industriel Casablanca</h4>
+            <h4 class="font-weight-bold mb-3" style=" text-align: left;">Prestations d’entretien et de nettoyage de copropriété</h4>
             <!--Grid row-->
             <div class="row">
 
@@ -127,7 +124,7 @@
 
                 <!--Image-->
                 <div class="view overlay ">
-                  <img src="img/img_activites/Nettoyage Industriel 2.jpg" class="img-fluid" alt="">
+                  <img src="img/img_activites/Nettoyage copropriété 2.jpg" class="img-fluid" alt="">
                   <a href="#">
                     <div class="mask rgba-white-light"></div>
                   </a>
@@ -150,20 +147,17 @@
 
           <div class="px-3 pt-3 mx-1 mt-1 pb-0">
 
-            <p style=" text-align: left;">Nous intervenons depuis plusieurs d’années dans les industries lourdes à Casablanca. Nos opérations s’intègrent aux cycles de fabrication de vos produits et sont réalisées suivant des techniques adaptées aux surfaces sensibles – nettoyage à vapeur saturée sèche, cryogénie – afin de respecter l’intégrité de votre parc machines. </p>
+            <p style=" text-align: left;">La société de NSS nettoyage assure l’entretien des parties communes des résidences au quotidien, hebdomadaire ou mensuel. Voici un aperçu de nos services: </p>
+            <li style=" text-align: left;"> Dépoussiérer et nettoyer les boites aux lettres.</li>
+            <li style=" text-align: left;"> Ramassage des éventuelles publicités.</li>
+            <li style=" text-align: left;"> Nettoyer l’ascenseur.</li>
+            <li style=" text-align: left;"> Nettoyer à l’humide les rampe et les marches des escaliers.</li>
+            <li style=" text-align: left;"> Nettoyer les vitres.</li>
+            <li style=" text-align: left;"> Enlever les toiles d’araignées.</li>
+            <li style=" text-align: left;"> Désherber l’entrée du bâtiment avec désherbant.</li>
+            <li style=" text-align: left;"> Nettoyer au Marcher.</li>
+            <li style=" text-align: left;"> Sorties et entrée des conteneurs aux jours prévus.</li>
 
-            <p style=" text-align: left;">Dans l’industrie agroalimentaire, les exigences en termes d’hygiène sont très fortes. NSS NETTOYAGE a précisément vocation à répondre à ces contraintes en vous apportant son expertise et sa compétence en matière de propreté visuelle et bactériologique.</p>
-
-            <p style=" text-align: left;">Nous sommes une société spécialisée en nettoyage, qui propose ses services dans le domaine du nettoyage industriels à Casablanca et partout au Maroc. Quel que soit leur secteur d’activité, notre société de nettoyage s’engage auprès de ses clients à fournir des prestations de propreté et d’hygiène de qualité.</p>
-            <p style=" text-align: left;"> <b>Nos prestations :</b></p>
-
-            <li style=" text-align: left;"> Nettoyage bureaux</li>
-            <li style=" text-align: left;"> Nettoyage de siège sociaux</li>
-            <li style=" text-align: left;"> Nettoyage de vos locaux en Open space ou non</li>
-            <li style=" text-align: left;"> Nettoyage industriel recevant du public</li>
-            <li style=" text-align: left;"> Nettoyage de commerce de proximité</li>
-            <li style=" text-align: left;"> Nettoyage de magasin</li>
-            <li style=" text-align: left;"> Nettoyage de centre commerciaux</li>
 
           </div>
 
