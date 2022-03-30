@@ -83,6 +83,21 @@
           margin-right: -1rem !important;
           margin-left: 0rem !important;
         }
+
+        .col-lg-5 {
+          flex: 0 0 auto;
+          width: 100%;
+        }
+
+        .col-lg-7 {
+          flex: 0 0 auto;
+          width: 100%;
+        }
+
+        .h3,
+        h3 {
+          font-size: 2.75rem;
+        }
       </style>
 
       <!--Google map-->
@@ -98,32 +113,29 @@
         <div class="col-lg-5 col-md-12 mb-0 mb-md-0">
 
           <h3 class="font-weight-bold">Contactez Nous</h3>
+          <br>
 
           <p class="text-muted">Pour plus d’informations, un devis gratuit, une question sur nos compétences ou sur nos tarifs nettoyage, travaux divers, services facilités ou travaux multiservices à Casablanca et partout au Maroc, n’hésitez pas à nous contacter, notre équipe est à votre disposition. Nous prendrons contact avec vous dès réception de votre message.</p>
 
           <p class="text-muted">Contactez-Nous , Pour nous adresser vos remarques, vos questions et vos demandes de service, veuillez nous contacter via le formulaire ci-dessous. Nous vous répondrons dans un délai de 24 heures.</p>
 
-          <div class="row text-center d-flex justify-content-center my-5">
-            <div class="col-lg-3 col-md-6 mb-4">
-              <i class="fas fa-map-marker fa-2x mb-4 grey-text"></i>
-              <p class="text-muted mb-0" style="font-size: small;"> 27 Rue Tahar Sebti, Casablanca 20000</p>
-            </div>
-            <div class="col-lg-3 col-md-6 mb-4">
-              <i class="fas fa-phone-alt fa-2x mb-4 grey-text"></i>
-              <p class="text-muted mb-0" style="font-size: small;">(+212) 666560650</p>
-            </div>
-            <div class="col-lg-3 col-md-6 mb-4">
-              <i class="fas fa-mobile-alt fa-2x mb-4 grey-text"></i>
-              <p class="text-muted mb-0" style="font-size: small;">(+212) 772393364</p>
-            </div>
-            <div class="col-lg-3 col-md-6 mb-4">
-              <i class="fas fa-envelope fa-2x mb-4 grey-text"></i>
-              <p class="text-muted mb-0" style="font-size: small;">nss.nettoyage.maroc@gmail.com</p>
-            </div>
-          </div>
-
-
         </div>
+        <div class="row text-center d-flex justify-content-center my-5">
+          <div class="col-lg-3 col-md-6 mb-4">
+            <i class="fas fa-map-marker fa-2x mb-4 grey-text"></i>
+            <p class="text-muted mb-0" style="font-size: small;"> 27 Rue Tahar Sebti, Casablanca 20000</p>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-4">
+            <i class="fas fa-phone-alt fa-2x mb-4 grey-text"></i>
+            <p class="text-muted mb-0" style="font-size: small;">(+212) 666560650</p>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-4">
+            <i class="fas fa-envelope fa-2x mb-4 grey-text"></i>
+            <p class="text-muted mb-0" style="font-size: small;">nss.nettoyage.maroc@gmail.com</p>
+          </div>
+        </div>
+
+
         <!--Grid column-->
 
         <!--Grid column-->

@@ -3,7 +3,7 @@
     <section class="d-flex justify-content-center justify-content-lg-between p-2 border-bottom">
         <!-- Left -->
         <div class="me-5 d-none d-lg-block">
-            <span>Société de nettoyage Casablanca Maroc : 0666560650</span>
+            <span><b>Société de nettoyage Casablanca Maroc : 0666560650</b></span>
         </div>
         <!-- Left -->
 
