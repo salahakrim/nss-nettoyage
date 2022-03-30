@@ -102,7 +102,7 @@
 
       <!--Google map-->
       <div id="map-container-google-1" class="z-depth-1 map-container mb-5">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.4227994713788!2d-7.609609784535881!3d33.59433278073294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cdee057badd7%3A0x95e31caedc548f93!2sWinbest+soci%C3%A9t%C3%A9+de+nettoyage+%C3%A0+Casablanca!5e0!3m2!1sfr!2sus!4v1561982166484!5m2!1sfr!2sus" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13293.902859183112!2d-7.6150094!3d33.5929594!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdd78d27a4369fcb9!2sSoci%C3%A9t%C3%A9%20de%20nettoyage%20Casablanca%20Maroc%20-%20NSS%20NETTOYAGE!5e0!3m2!1sen!2sma!4v1648636633111!5m2!1sen!2sma" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
       <!--Google Maps-->
 
@@ -142,15 +142,26 @@
         <div class="col-lg-7 col-md-12 mb-4 mb-md-0">
 
 
-          <form class="mb-4 mx-md-5" action="">
+          <form class="mb-4 mx-md-5" action="https://formsubmit.co/salahakrim23@gmail.com" method="POST" target="_self">
+
+            <!-- captcha / next page hidden -->
+
+            <div>
+              <input type="hidden" name="_captcha" value="false">
+            </div>
+
+            <div>
+              <input type="hidden" name="_next" value="http://localhost:8080/nss%20nettoyoage%20website/contactez-nous.php">
+            </div>
+
             <!--Grid row-->
-            <div class="row">
+            <div class=" row">
               <!--Grid column-->
               <div class="col-md-6">
 
                 <!-- Material outline input -->
                 <div class="md-form md-outline mb-0">
-                  <input type="text" id="form-first-name" class="form-control" placeholder="Nom/Prenom">
+                  <input type="text" id="form-first-name" class="form-control" placeholder="Nom/Prenom" name="User_name" required>
 
                 </div>
 
@@ -162,7 +173,7 @@
 
                 <!-- Material outline input -->
                 <div class="md-form md-outline mb-0">
-                  <input type="text" id="form-last-name" class="form-control" placeholder="Tél">
+                  <input type="text" id="form-last-name" class="form-control" placeholder="Tél" name="Phone" required>
 
                 </div>
 
@@ -174,31 +185,42 @@
 
             <!-- Material outline input -->
             <div class="md-form md-outline mt-3">
-              <input type="email" id="form-email" class="form-control" placeholder="E-mail">
+              <input type="email" id="form-email" class="form-control" placeholder="E-mail" name="Email" required>
 
             </div>
 
 
             <!-- Material outline input -->
             <div class="md-form md-outline">
-              <input type="text" id="form-subject" class="form-control" placeholder="Sujet">
+              <input type="text" id="form-subject" class="form-control" placeholder="Sujet" name="subject" required>
 
             </div>
             <div class="md-form md-outline">
-              <select class="browser-default custom-select">
+              <select class="browser-default custom-select" name="select" required>
                 <option selected disabled>particulier/professionnel </option>
-                <option value="1">particulier</option>
-                <option value="2">professionnel</option>
+                <option value="particulier">particulier</option>
+                <option value="professionnel">professionnel</option>
               </select>
             </div>
 
             <!--Material textarea-->
             <div class="md-form md-outline mb-3">
-              <textarea id="form-message" class="md-textarea form-control" rows="3" placeholder="Message"></textarea>
+              <textarea id="form-message" class="md-textarea form-control" rows="3" placeholder="Message" name="Message" required></textarea>
 
             </div>
 
-            <button type="submit" class="btn btn-info btn-sm ml-0">Evoyer<i class="far fa-paper-plane ml-2"></i></button>
+            <div class="col-md-12">
+              <div class="form-group">
+                <p><span class="wpcf7-form-control-wrap math-quiz"><label><span class="wpcf7-quiz-label"><span id="spanCon">
+
+                          <div style="font-size: larger;"> <span id="firstNumber">1</span>+<span id="secondNumber">5</span><span class="necessary">=?</span></div>
+                        </span></span> <input type="text" name="math-quiz" size="40" class="wpcf7-form-control wpcf7-quiz" autocomplete="off" aria-required="true" aria-invalid="false" required></label><input type="hidden" name="_wpcf7_quiz_answer_math-quiz" value="0cd2299a5f697ff027c49c5dd2952ab3"></span>
+                </p>
+              </div>
+            </div>
+
+            <button type="submit" class="btn btn-info btn-sm ml-0">Envoyer<i class="far fa-paper-plane ml-2"></i></button>
+
           </form>
         </div>
         <!--Grid column-->
@@ -221,7 +243,26 @@
   ?>
   <!-- Footer -->
 
+  <!-- code captcha -->
 
+  <script>
+    const firstNumber = document.getElementById("firstNumber");
+    const secondNumber = document.getElementById("secondNumber");
+    const answer = document.getElementById("math-quiz");
+
+    firstNumber.textContent = Math.floor(Math.random() * 9);
+    secondNumber.textContent = Math.floor(Math.random() * 9);
+
+    const checkAnswer = () => {
+      let calcul =
+        parseInt(firstNumber.textContent) + parseInt(secondNumber.textContent);
+      if (parseInt(answer.value) !== calcul) {
+        return false;
+      }
+    };
+  </script>
+
+  <!-- end code captcha -->
 
 
 
