@@ -153,6 +153,9 @@
             <div>
               <input type="hidden" name="_next" value="http://localhost:8080/nss%20nettoyoage%20website/contactez-nous.php">
             </div>
+            <div>
+              <input type="text" name="_honey" style="display:none">
+            </div>
 
             <!--Grid row-->
             <div class=" row">
