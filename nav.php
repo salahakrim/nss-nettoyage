@@ -149,7 +149,7 @@
                     <a class="nav-link" href="contactez-nous.php" style="color: #150D4E;">CONTACTEZ-NOUS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link bg-pr" href="devis.php" style="color: #150D4E;">DEVIS</a>
+                    <a class="nav-link bg-pr" href="devis.php" style="color: #ffffff; background-color: #150D4E; border-radius: 4px 4px 4px 4px;">DEMANDEZ UN DEVIS</a>
                 </li>
 
             </ul>
