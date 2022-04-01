@@ -13,7 +13,7 @@
     }
 
     #hover_color:hover {
-        -webkit-box-shadow: -200px 0 0 #000000 inset;
+        -webkit-box-shadow: -600px 0 0 #000000 inset;
 
 
     }

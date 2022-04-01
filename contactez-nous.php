@@ -39,6 +39,8 @@
 <body>
   <header>
     <!-- Navbar -->
+    menu {z-index: 999;position: absolute;width: 200px;
+
     <?php
     include "./nav.php";
     ?>

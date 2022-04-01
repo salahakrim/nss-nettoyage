@@ -60,7 +60,11 @@
                   Société de nettoyage professionnels à Casablanca, le service
                   de nettoyage le plus abordable de Casablanca.
                 </h4>
-                <a class="btn btn-outline-light btn-lg " href="devis.php" role="button">Demendez un Devis</a>
+                <a href="contactez-nous.php">
+                  <button type="submit" id="hover_color" class="btn mb-4 text-white" style="background-color: #0B0146; height: 60px; width: 300px; font-size:larger">
+                    <b class="hover-text"> DEMANDEZ UN DEVIS </b>
+                  </button>
+                </a>
               </div>
             </div>
           </div>
@@ -78,7 +82,11 @@
                   Société de nettoyage professionnels à Casablanca, le service
                   de nettoyage le plus abordable de Casablanca.
                 </h4>
-                <a class="btn btn-outline-light btn-lg " href="devis.php" role="button">Demendez un Devis</a>
+                <a href="contactez-nous.php">
+                  <button type="submit" id="hover_color" class="btn mb-4 text-white" style="background-color: #0B0146; height: 60px; width: 300px; font-size:larger">
+                    <b class="hover-text"> DEMANDEZ UN DEVIS </b>
+                  </button>
+                </a>
               </div>
             </div>
           </div>
@@ -96,7 +104,11 @@
                   Société de nettoyage professionnels à Casablanca, le service
                   de nettoyage le plus abordable de Casablanca.
                 </h4>
-                <a class="btn btn-outline-light btn-lg " href="devis.php" role="button">Demendez un Devis</a>
+                <a href="contactez-nous.php">
+                  <button type="submit" id="hover_color" class="btn mb-4 text-white" style="background-color: #0B0146; height: 60px; width: 300px; font-size:larger">
+                    <b class="hover-text"> DEMANDEZ UN DEVIS </b>
+                  </button>
+                </a>
               </div>
             </div>
           </div>
